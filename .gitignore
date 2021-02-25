@@ -1,0 +1,4 @@
+.env
+__pycache__/
+setenv.sh
+db.sqlite3
